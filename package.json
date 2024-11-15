@@ -1,0 +1,20 @@
+{
+  "name": "primo-progetto-npm",
+  "version": "1.0.0",
+  "description": "Primo progetto che sto facendo in node + npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "134-intro-node-npm"
+  },
+  "author": "Tiziano Nicolai",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
